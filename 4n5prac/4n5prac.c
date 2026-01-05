@@ -339,6 +339,16 @@ void transposeMatrix(int matrix[10][10], int rows, int cols) {
 
 */
 
+
+
+
+
+
+
+
+
+
+
 /*
 #include <stdio.h>
 
